@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## Hi there! 👋<br><br>I'm Enamul Shikder, a passionate frontend developer eager to explore the ever-evolving world of web technologies. With a strong foundation in HTML, CSS, and JavaScript, I am on a journey to enhance user experiences and bring creative ideas to life.<br><br>
 
-## 🚀 Quick Overview<br><br>- 👨‍💻 Currently exploring the realms of frontend development.<br>- 🎓 Graduated with a degree in Diploma in Computer Science and Teachnoogy from Mymensingh Polytechnic Institute.<br>- 🌱 Always learning and staying up-to-date with the latest trends and technologies.<br>- 💡 Excited to contribute to open source projects and collaborate with fellow developers.<br><br>
+## 🚀 Quick Overview<br><br>- 👨‍💻 Currently exploring the realms of frontend development.<br>- 🎓 Graduated with a degree in Diploma in Computer Science and Technology from Mymensingh Polytechnic Institute.<br>- 🌱 Always learning and staying up-to-date with the latest trends and technologies.<br>- 💡 Excited to contribute to open source projects and collaborate with fellow developers.<br><br>
 
 ## 🔧 Skills<br><br>- **Languages:** HTML, CSS, JavaScript<br>- **Frameworks/Libraries:** ReactJs <br>- **Tools:** Git, VSCode <br><br>
 
