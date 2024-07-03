@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <a href="https://www.linkedin.com/in/devenamulshikder">
+  <a href="https://www.linkedin.com/in/enamul-shikder">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a> 
 </div>
@@ -28,10 +28,13 @@
 <h2 align="left">⚡Top Languages • GitHub Stats⚡</h2>
 <br/>
 <div>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devenamulshikder&layout=compact&theme=github_dark">
-  <br/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devenamulshikder&theme=dark" alt="GitHub Stats">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=devenamulshikder&amp;show_icons=true&theme=gotham" alt="GitHub Stats">
+  <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devenamulshikder&theme=github_dark">
+ 
+  <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devenamulshikder&theme=github_dark">
+
+  <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devenamulshikder&theme=github_dark&utcOffset=8" alt="GitHub Stats">
+
+
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devenamulshikder&theme=github_dark" alt="GitHub Stats">
 </div>
 
-<br/>
